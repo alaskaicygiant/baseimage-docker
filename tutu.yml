@@ -1,0 +1,4 @@
+ubunut-base:
+  image: quay.io/alaska/baseimage
+  ports:
+    - 8022:22
